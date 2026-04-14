@@ -13,3 +13,5 @@ pycryptodome
 rich
 python-multipart
 jinja2
+requests
+beautifulsoup4
